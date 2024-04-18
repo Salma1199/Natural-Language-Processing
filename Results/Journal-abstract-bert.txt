@@ -1,0 +1,802 @@
+Skipping entry because it's not a dictionary: []
+Skipping entry because it's not a dictionary: []
+Skipping entry because it's not a dictionary: 
+Train set size: 8264
+Dev set size: 1033
+Test set size: 1033
+Top 5 largest words:
+(('di', 'oc', 'ty', 'lb', 'en', 'zo', 'thi', 'eno', 'ben', 'zo', 'thi', 'op', 'hen', 'e'), 2)
+(('cu', '44', 'z', 'r', '44', 'al', '8', 'h', 'f', '2', 'co', '2'), 1)
+(('te', 'tra', 'met', 'hyl', 'tet', 'rase', 'lena', 'ful', 'vale', 'ne'), 1)
+(('bi', '2', 'sr', '2', 'ca', 'cu', '2', 'o', '8'), 3)
+(('c', '9', 'h', '18', 'n', '2', 'cu', 'br', '4'), 1)
+(('rus', 'r', '2', 'g', 'dc', 'u', '2', 'o', '8'), 1)
+(('ol', 'igo', 'ph', 'en', 'yle', 'ne', 'vin', 'ule', 'ne'), 1)
+(('te', 'tra', 'cy', 'ano', 'quin', 'od', 'ime', 'than', 'e'), 1)
+(('magnet', 'oe', 'le', 'ct', 'rol', 'umi', 'nes', 'cence'), 3)
+(('la', '2', 'o', '3', 'fe', '2', 'se', '2'), 2)
+10 smallest tokens:
+(('cu', '44', 'z', 'r', '44', 'al', '8', 'h', 'f', '2', 'co', '2'), 1)
+(('te', 'tra', 'met', 'hyl', 'tet', 'rase', 'lena', 'ful', 'vale', 'ne'), 1)
+(('c', '9', 'h', '18', 'n', '2', 'cu', 'br', '4'), 1)
+(('rus', 'r', '2', 'g', 'dc', 'u', '2', 'o', '8'), 1)
+(('ol', 'igo', 'ph', 'en', 'yle', 'ne', 'vin', 'ule', 'ne'), 1)
+(('te', 'tra', 'cy', 'ano', 'quin', 'od', 'ime', 'than', 'e'), 1)
+(('na', '2', 'cu', '3', 'ge', '4', 'o', '12'), 1)
+(('benz', 'od', 'ith', 'io', 'ph', 'ene', 'al', 't'), 1)
+(('t', 'l', '2', 'ba', '2', 'cu', 'o', '6'), 1)
+(('did', 'ode', 'cy', 'ld', 'ime', 'thy', 'lam', 'monium'), 1)
+(('lu', '2', 'bi', 'fe', '4', 'ga', 'o', '12'), 1)
+(('h', 'gb', 'a', '2', 'cu', 'o', '4'), 1)
+(('am', 'n', '3', 'cr', '4', 'o', '12'), 1)
+(('di', 'ff', 'us', 'io', 'os', 'mot', 'ic'), 1)
+(('k', '3', 'ph', 'ena', 'nt', 'hre', 'ne'), 1)
+(('k', 'x', 'ph', 'ena', 'nt', 'hre', 'ne'), 1)
+(('ba', '3', 'm', 'ru', '2', 'o', '9'), 1)
+(('ba', '3', 'fer', 'u', '2', 'o', '9'), 1)
+(('x', 'na', 'x', 'fe', '2', 'as', '2'), 1)
+(('cu', '2', 'hg', 'p', 'bs', 'e', '4'), 1)
+(('cu', '2', 'cd', 'p', 'bs', 'e', '4'), 1)
+(('ag', '2', 'cd', 'p', 'bt', 'e', '4'), 1)
+(('du', '20', '15', 'un', 'sat', 'ura', 'ted'), 1)
+(('bu', 'rk', 'ov', '20', '11', 'top', 'ological'), 1)
+(('che', 'mo', 'hy', 'dro', 'dy', 'nami', 'c'), 1)
+(('ca', '2', 'cu', 'o', '2', 'cl', '2'), 1)
+(('tri', 'fl', 'uo', 'ro', 'eth', 'yle', 'ne'), 1)
+(('ba', '3', 'm', 'n', '2', 'o', '8'), 1)
+(('pie', 'zo', 'ma', 'gne', 'ti', 'x', 'm'), 1)
+(('g', 'd', '3', 'ru', '4', 'al', '12'), 1)
+(('y', 'ba', '2', 'cu', '4', 'o', '8'), 1)
+(('ph', 'en', 'yle', 'nee', 'thy', 'ny', 'lene'), 1)
+(('na', '2', 'co', '2', 'te', 'o', '6'), 1)
+(('g', 'd', '3', 'ga', '5', 'o', '12'), 1)
+(('he', 'xa', 'fl', 'uo', 'rop', 'hos', 'phate'), 1)
+(('che', 'mo', 'hy', 'dro', 'dy', 'nami', 'cs'), 1)
+(('ph', 'en', 'yle', 'ne', 'vin', 'yle', 'ne'), 1)
+(('iso', 'pro', 'py', 'la', 'cr', 'yla', 'mide'), 1)
+(('super', 'co', 'unt', 'er', 'fl', 'uid', 's'), 1)
+(('h', 'f', '2', 'n', '2', 'i', '2'), 1)
+(('z', 'r', '2', 'n', '2', 'cl', '2'), 1)
+(('gr', 'avi', 'tom', 'agne', 'to', 'ele', 'ctric'), 1)
+(('magnet', 'os', 'pe', 'ct', 'ros', 'co', 'py'), 1)
+(('none', 'quil', 'ib', 'ri', 'bri', 'um'), 1)
+(('electro', 'hy', 'dro', 'dy', 'nami', 'c'), 1)
+(('el', 'ast', 'oca', 'pi', 'llar', 'ity'), 1)
+(('anti', 'fer', 'rro', 'ma', 'gne', 'tic'), 1)
+(('rn', 'i', '2', 'b', '2', 'c'), 1)
+(('c1', '0', 'h', '12', 'se', '4'), 1)
+(('c1', '0', 'h', '8', 's', '8'), 1)
+(('anti', 'fer', 'ror', 'ota', 'tion', 'al'), 1)
+(('im', 'mun', 'og', 'lo', 'bu', 'lin'), 1)
+(('ca', 'k', 'fe', '4', 'as', '4'), 1)
+(('he', 'xy', 'lth', 'io', 'ph', 'ene'), 1)
+(('adamant', 'yl', 'car', 'ba', 'mo', 'yl'), 1)
+(('sr', '3', 'cr', '2', 'o', '8'), 1)
+(('anti', 'fer', 'ro', 'ele', 'ctric', 'ally'), 1)
+(('stab', 'ilis', 'ation', 'me', 'chan', 'ism'), 1)
+(('tunnel', 'ling', 'mic', 'ros', 'co', 'py'), 1)
+(('te', 'tra', 'car', 'box', 'yl', 'ic'), 1)
+(('the', 'rm', 'ov', 'is', 'coe', 'lastic'), 1)
+(('dial', 'ly', 'ld', 'ime', 'thy', 'l'), 1)
+(('di', 'sp', 'rop', 'ort', 'ion', 'ate'), 1)
+(('ra', 'di', 'ii', 'nde', 'pen', 'dent'), 1)
+(('magnet', 'op', 'ie', 'zo', 'ele', 'ctric'), 1)
+(('ph', 'yt', 'op', 'lan', 'kt', 'on'), 1)
+(('xu', '20', '15', 'dis', 'co', 'very'), 1)
+(('wen', 'g', '20', '15', 'we', 'yl'), 1)
+(('xu', '20', '15', 'ob', 'ser', 'vation'), 1)
+(('liang', '20', '15', 'ult', 'rah', 'igh'), 1)
+(('she', 'khar', '20', '15', 'lar', 'ge'), 1)
+(('xi', 'e', '20', '15', 'ne', 'w'), 1)
+(('r', 'him', '20', '15', 'landa', 'u'), 1)
+(('un', 're', 'con', 'st', 'ru', 'cted'), 1)
+(('os', 'te', 'oa', 'rth', 'rit', 'is'), 1)
+(('co', '40', 'fe', '40', 'b', '20'), 1)
+(('ci', 'rc', 'um', 'cor', 'one', 'ne'), 1)
+(('ox', 'ych', 'al', 'co', 'gen', 'ide'), 1)
+(('vinyl', 'ide', 'ne', 'fl', 'uo', 'ride'), 1)
+(('dime', 'thy', 'lp', 'ipe', 'raz', 'ine'), 1)
+(('x', 'sr', 'x', 'm', 'no', '3'), 1)
+(('n', 'd', '2', 'fe', '14', 'b'), 1)
+(('al', 'kan', 'ed', 'ith', 'iol', 's'), 1)
+(('ion', 'yl', 'ide', 'nea', 'ce', 'tic'), 1)
+(('wal', 'dh', 'er', 'r', '20', '14'), 1)
+(('ve', 'ld', 'hor', 'st', '20', '14'), 1)
+(('right', 'le', 'ft', 'har', 'poo', 'ns'), 1)
+(('magnet', 'ost', 'ru', 'ct', 'ural', 'ly'), 1)
+(('poly', 'ac', 'ryn', 'oni', 'tri', 'le'), 1)
+(('ol', 'igo', 'sa', 'cc', 'hari', 'des'), 1)
+(('cai', '20', '15', 'vis', 'ual', 'izing'), 1)
+(('ye', '20', '13', 'vis', 'ual', 'izing'), 1)
+(('millie', 'le', 'ct', 'ron', 'vo', 'lt'), 1)
+(('fe', '2', 'mo', '3', 'o', '8'), 1)
+(('stu', 'che', 'br', 'uk', 'ho', 'v'), 1)
+(('stu', 'che', 'br', 'uk', 'ho', 'va'), 1)
+(('9', 'ca', 'cu', '2', 'o', '8'), 1)
+(('the', 'rm', 'oe', 'le', 'ctric', 'ity'), 1)
+(('ac', 'ous', 'to', 'dy', 'nami', 'cs'), 1)
+(('300', 'x', '30', '0', 'um', '2'), 1)
+Iteration: Learning Rate: 1e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 1.2942
+Average loss on test data: 1.1221
+              precision    recall  f1-score   support
+
+           0       0.66      0.30      0.41       320
+           1       0.41      0.85      0.55       281
+           2       0.57      0.41      0.48       189
+           3       0.88      0.62      0.73       243
+
+    accuracy                           0.54      1033
+   macro avg       0.63      0.54      0.54      1033
+weighted avg       0.63      0.54      0.54      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 1.3081
+Average loss on test data: 1.1777
+              precision    recall  f1-score   support
+
+           0       0.48      0.91      0.63       320
+           1       0.40      0.21      0.28       281
+           2       0.57      0.80      0.67       189
+           3       0.79      0.05      0.09       243
+
+    accuracy                           0.50      1033
+   macro avg       0.56      0.49      0.42      1033
+weighted avg       0.55      0.50      0.41      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 1.2841
+Average loss for epoch 2: 1.0190
+Average loss on test data: 0.8386
+              precision    recall  f1-score   support
+
+           0       0.81      0.71      0.76       320
+           1       0.67      0.66      0.67       281
+           2       0.66      0.86      0.74       189
+           3       0.80      0.75      0.77       243
+
+    accuracy                           0.73      1033
+   macro avg       0.73      0.74      0.73      1033
+weighted avg       0.74      0.73      0.73      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 1.3298
+Average loss for epoch 2: 1.0567
+Average loss on test data: 0.8879
+              precision    recall  f1-score   support
+
+           0       0.81      0.80      0.80       320
+           1       0.59      0.37      0.45       281
+           2       0.72      0.82      0.77       189
+           3       0.67      0.90      0.77       243
+
+    accuracy                           0.71      1033
+   macro avg       0.70      0.72      0.70      1033
+weighted avg       0.70      0.71      0.69      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 1.2465
+Average loss for epoch 2: 0.8672
+Average loss for epoch 3: 0.5962
+Average loss on test data: 0.6273
+              precision    recall  f1-score   support
+
+           0       0.87      0.84      0.85       320
+           1       0.74      0.57      0.65       281
+           2       0.76      0.78      0.77       189
+           3       0.73      0.93      0.82       243
+
+    accuracy                           0.78      1033
+   macro avg       0.77      0.78      0.77      1033
+weighted avg       0.78      0.78      0.77      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 1.3315
+Average loss for epoch 2: 1.0524
+Average loss for epoch 3: 0.7950
+Average loss on test data: 0.7114
+              precision    recall  f1-score   support
+
+           0       0.73      0.95      0.82       320
+           1       0.69      0.56      0.62       281
+           2       0.72      0.57      0.64       189
+           3       0.84      0.84      0.84       243
+
+    accuracy                           0.75      1033
+   macro avg       0.75      0.73      0.73      1033
+weighted avg       0.74      0.75      0.74      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 1.1381
+Average loss on test data: 0.7406
+              precision    recall  f1-score   support
+
+           0       0.84      0.84      0.84       320
+           1       0.58      0.73      0.64       281
+           2       0.70      0.77      0.73       189
+           3       0.92      0.57      0.71       243
+
+    accuracy                           0.73      1033
+   macro avg       0.76      0.73      0.73      1033
+weighted avg       0.76      0.73      0.74      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 1.1212
+Average loss on test data: 0.8175
+              precision    recall  f1-score   support
+
+           0       0.81      0.72      0.76       320
+           1       0.63      0.42      0.50       281
+           2       0.55      0.89      0.68       189
+           3       0.79      0.81      0.80       243
+
+    accuracy                           0.69      1033
+   macro avg       0.69      0.71      0.69      1033
+weighted avg       0.71      0.69      0.69      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 1.0639
+Average loss for epoch 2: 0.6107
+Average loss on test data: 0.6658
+              precision    recall  f1-score   support
+
+           0       0.76      0.92      0.84       320
+           1       0.71      0.70      0.71       281
+           2       0.84      0.56      0.67       189
+           3       0.80      0.81      0.80       243
+
+    accuracy                           0.77      1033
+   macro avg       0.78      0.75      0.75      1033
+weighted avg       0.77      0.77      0.76      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 1.2543
+Average loss for epoch 2: 0.7335
+Average loss on test data: 0.6161
+              precision    recall  f1-score   support
+
+           0       0.75      0.94      0.84       320
+           1       0.76      0.63      0.69       281
+           2       0.81      0.75      0.78       189
+           3       0.86      0.80      0.83       243
+
+    accuracy                           0.79      1033
+   macro avg       0.80      0.78      0.78      1033
+weighted avg       0.79      0.79      0.78      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 1.0706
+Average loss for epoch 2: 0.5959
+Average loss for epoch 3: 0.3817
+Average loss on test data: 0.5924
+              precision    recall  f1-score   support
+
+           0       0.82      0.88      0.85       320
+           1       0.71      0.70      0.71       281
+           2       0.75      0.78      0.77       189
+           3       0.90      0.80      0.85       243
+
+    accuracy                           0.79      1033
+   macro avg       0.80      0.79      0.79      1033
+weighted avg       0.80      0.79      0.79      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 1.2783
+Average loss for epoch 2: 0.7279
+Average loss for epoch 3: 0.4696
+Average loss on test data: 0.5735
+              precision    recall  f1-score   support
+
+           0       0.84      0.88      0.86       320
+           1       0.81      0.58      0.68       281
+           2       0.74      0.87      0.80       189
+           3       0.80      0.91      0.86       243
+
+    accuracy                           0.80      1033
+   macro avg       0.80      0.81      0.80      1033
+weighted avg       0.81      0.80      0.80      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 1.0688
+Average loss on test data: 0.6198
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.85       320
+           1       0.81      0.56      0.66       281
+           2       0.64      0.89      0.75       189
+           3       0.83      0.86      0.85       243
+
+    accuracy                           0.79      1033
+   macro avg       0.78      0.79      0.78      1033
+weighted avg       0.80      0.79      0.78      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 1.2710
+Average loss on test data: 0.9843
+              precision    recall  f1-score   support
+
+           0       0.70      0.91      0.79       320
+           1       0.57      0.49      0.53       281
+           2       0.94      0.25      0.39       189
+           3       0.70      0.92      0.79       243
+
+    accuracy                           0.68      1033
+   macro avg       0.73      0.64      0.63      1033
+weighted avg       0.71      0.68      0.65      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 1.1470
+Average loss for epoch 2: 0.7020
+Average loss on test data: 0.6803
+              precision    recall  f1-score   support
+
+           0       0.86      0.76      0.81       320
+           1       0.65      0.67      0.66       281
+           2       0.61      0.90      0.72       189
+           3       0.95      0.70      0.81       243
+
+    accuracy                           0.75      1033
+   macro avg       0.77      0.76      0.75      1033
+weighted avg       0.78      0.75      0.75      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 1.2626
+Average loss for epoch 2: 0.7503
+Average loss on test data: 0.6417
+              precision    recall  f1-score   support
+
+           0       0.81      0.88      0.84       320
+           1       0.83      0.52      0.64       281
+           2       0.73      0.81      0.77       189
+           3       0.75      0.93      0.83       243
+
+    accuracy                           0.78      1033
+   macro avg       0.78      0.78      0.77      1033
+weighted avg       0.79      0.78      0.77      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 1.1850
+Average loss for epoch 2: 0.7175
+Average loss for epoch 3: 0.4578
+Average loss on test data: 0.5585
+              precision    recall  f1-score   support
+
+           0       0.85      0.88      0.87       320
+           1       0.69      0.73      0.71       281
+           2       0.83      0.70      0.76       189
+           3       0.82      0.83      0.83       243
+
+    accuracy                           0.79      1033
+   macro avg       0.80      0.78      0.79      1033
+weighted avg       0.80      0.79      0.79      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 1.2011
+Average loss for epoch 2: 0.7265
+Average loss for epoch 3: 0.4753
+Average loss on test data: 0.6189
+              precision    recall  f1-score   support
+
+           0       0.75      0.95      0.84       320
+           1       0.78      0.64      0.70       281
+           2       0.86      0.57      0.68       189
+           3       0.79      0.89      0.84       243
+
+    accuracy                           0.78      1033
+   macro avg       0.79      0.76      0.77      1033
+weighted avg       0.79      0.78      0.77      1033
+
+Best hyperparameters: {'learning_rate': 3e-05, 'epochs': 3, 'batch_size': 16}
+Average loss for epoch 1: 0.8231
+Average loss for epoch 2: 0.4371
+Average loss for epoch 3: 0.3026
+Average loss on test data: 0.4789
+              precision    recall  f1-score   support
+
+           0       0.83      0.95      0.89       302
+           1       0.84      0.73      0.78       286
+           2       0.81      0.77      0.79       195
+           3       0.87      0.88      0.88       250
+
+    accuracy                           0.84      1033
+   macro avg       0.84      0.83      0.83      1033
+weighted avg       0.84      0.84      0.84      1033
+
+Top 5 largest words:
+(('di', 'oct', 'yl', 'benz', 'othi', 'eno', 'benz', 'othi', 'ophen', 'e'), 2)
+(('cu', '44', 'zr', '44', 'al', '8', 'hf', '2', 'co', '2'), 1)
+(('bi', '2', 'sr', '2', 'cac', 'u', '2', 'o', '8'), 3)
+(('tetra', 'methyl', 'tetr', 'ase', 'len', 'af', 'ul', 'val', 'ene'), 1)
+(('c', '9', 'h', '18', 'n', '2', 'cu', 'br', '4'), 1)
+(('la', '2', 'o', '3', 'fe', '2', 'se', '2'), 2)
+(('na', '2', 'cu', '3', 'ge', '4', 'o', '12'), 1)
+(('did', 'ode', 'cy', 'ld', 'ime', 'thy', 'lamm', 'onium'), 1)
+(('lu', '2', 'bi', 'fe', '4', 'ga', 'o', '12'), 1)
+(('rus', 'r', '2', 'gd', 'cu', '2', 'o', '8'), 1)
+10 smallest tokens:
+(('cu', '44', 'zr', '44', 'al', '8', 'hf', '2', 'co', '2'), 1)
+(('tetra', 'methyl', 'tetr', 'ase', 'len', 'af', 'ul', 'val', 'ene'), 1)
+(('c', '9', 'h', '18', 'n', '2', 'cu', 'br', '4'), 1)
+(('na', '2', 'cu', '3', 'ge', '4', 'o', '12'), 1)
+(('did', 'ode', 'cy', 'ld', 'ime', 'thy', 'lamm', 'onium'), 1)
+(('lu', '2', 'bi', 'fe', '4', 'ga', 'o', '12'), 1)
+(('rus', 'r', '2', 'gd', 'cu', '2', 'o', '8'), 1)
+(('ba', '3', 'mr', 'u', '2', 'o', '9'), 1)
+(('ba', '3', 'fer', 'u', '2', 'o', '9'), 1)
+(('ca', '2', 'cu', 'o', '2', 'cl', '2'), 1)
+(('yb', 'a', '2', 'cu', '4', 'o', '8'), 1)
+(('tl', '2', 'ba', '2', 'cu', 'o', '6'), 1)
+(('na', '2', 'co', '2', 'te', 'o', '6'), 1)
+(('tetra', 'cy', 'ano', 'quin', 'odi', 'meth', 'ane'), 1)
+(('anti', 'fer', 'rr', 'oma', 'gn', 'etic', 'ally'), 1)
+(('none', 'qu', 'ili', 'bri', 'bri', 'um'), 1)
+(('hg', 'ba', '2', 'cu', 'o', '4'), 1)
+(('amn', '3', 'cr', '4', 'o', '12'), 1)
+(('anti', 'fer', 'rr', 'oma', 'gn', 'etic'), 1)
+(('rn', 'i', '2', 'b', '2', 'c'), 1)
+(('benzo', 'di', 'thi', 'ophen', 'ea', 'lt'), 1)
+(('c', '10', 'h', '12', 'se', '4'), 1)
+(('c', '10', 'h', '8', 's', '8'), 1)
+(('ca', 'kf', 'e', '4', 'as', '4'), 1)
+(('adam', 'ant', 'yl', 'carb', 'amo', 'yl'), 1)
+(('xn', 'ax', 'fe', '2', 'as', '2'), 1)
+(('sr', '3', 'cr', '2', 'o', '8'), 1)
+(('cu', '2', 'hg', 'pbs', 'e', '4'), 1)
+(('cu', '2', 'cd', 'pbs', 'e', '4'), 1)
+(('ag', '2', 'cd', 'pb', 'te', '4'), 1)
+(('bor', 'isen', 'ko', '201', '5', 'time'), 1)
+(('wen', 'g', '201', '5', 'we', 'yl'), 1)
+(('liang', '201', '5', 'ult', 'ra', 'high'), 1)
+(('she', 'kh', 'ar', '201', '5', 'large'), 1)
+(('burk', 'ov', '201', '1', 'top', 'ological'), 1)
+(('rh', 'im', '201', '5', 'land', 'au'), 1)
+(('co', '40', 'fe', '40', 'b', '20'), 1)
+(('non', 'mon', 'oto', 'no', 'us', 'ly'), 1)
+(('ba', '2', 'yr', 'e', 'o', '6'), 1)
+(('nond', 'ia', 'gon', 'ali', 'za', 'ble'), 1)
+(('poly', 'dia', 'ce', 'ty', 'len', 'e'), 1)
+(('vel', 'dh', 'ors', 't', '201', '4'), 1)
+(('ba', '3', 'mn', '2', 'o', '8'), 1)
+(('gd', '3', 'ru', '4', 'al', '12'), 1)
+(('mill', 'iele', 'ct', 'ron', 'vol', 't'), 1)
+(('pent', 'ate', 'tel', 'lu', 'rid', 'e'), 1)
+(('fe', '2', 'mo', '3', 'o', '8'), 1)
+(('stu', 'che', 'br', 'uk', 'ho', 'v'), 1)
+(('stu', 'che', 'br', 'uk', 'ho', 'va'), 1)
+(('9', 'cac', 'u', '2', 'o', '8'), 1)
+(('bi', '4', 'br', '2', 'i', '2'), 1)
+(('buck', 'min', 'ster', 'full', 'eren', 'e'), 1)
+(('gd', '3', 'ga', '5', 'o', '12'), 1)
+(('oligo', 'phenyl', 'ene', 'vin', 'ule', 'ne'), 1)
+(('isop', 'ropy', 'lac', 'ry', 'lam', 'ide'), 1)
+(('nons', 'up', 'erc', 'ond', 'uct', 'ing'), 1)
+(('hf', '2', 'n', '2', 'i', '2'), 1)
+(('zr', '2', 'n', '2', 'cl', '2'), 1)
+(('cu', '3', 'v', '2', 'o', '7'), 1)
+(('una', 'ni', 'mo', 'us', 'ly'), 1)
+(('iso', 'cho', 'resp', 'lane', 's'), 1)
+(('elast', 'oca', 'pi', 'll', 'arity'), 1)
+(('ru', 'zs', 'ins', 'zk', 'y'), 1)
+(('piez', 'oma', 'gn', 'eti', 'sm'), 1)
+(('ultra', 'inc', 'omp', 'ress', 'ible'), 1)
+(('rm', 'n', '2', 'o', '5'), 1)
+(('ca', '2', 'ru', 'o', '4'), 1)
+(('k', '3', 'phen', 'anth', 'rene'), 1)
+(('anti', 'fer', 'ror', 'otation', 'al'), 1)
+(('dich', 'alo', 'co', 'gen', 'ides'), 1)
+(('act', 'eta', 'ni', 'li', 'de'), 1)
+(('anti', 'fer', 'roma', 'get', 'ic'), 1)
+(('gin', 'z', 'burg', 'land', 'au'), 1)
+(('per', 'pend', 'ic', 'lu', 'ar'), 1)
+(('hex', 'yl', 'thi', 'ophen', 'e'), 1)
+(('bio', 'rt', 'hog', 'onal', 'ity'), 1)
+(('coc', 'r', '2', 'o', '4'), 1)
+(('matrix', 'reno', 'rm', 'ali', 'zation'), 1)
+(('self', 'cons', 'iste', 'nc', 'y'), 1)
+(('anti', 'fer', 'ro', 'electric', 'ally'), 1)
+(('tunnel', 'ling', 'micro', 'sc', 'opy'), 1)
+(('et', 'ting', 'sha', 'use', 'n'), 1)
+(('biom', 'acr', 'omo', 'lec', 'ule'), 1)
+(('ter', 'ep', 'ht', 'hal', 'amide'), 1)
+(('va', 'ik', 'unt', 'ana', 'than'), 1)
+(('intra', 'oct', 'ah', 'ed', 'ral'), 1)
+(('nano', 'lit', 'hog', 'raph', 'y'), 1)
+(('thc', 'r', '2', 'si', '2'), 1)
+(('magnet', 'op', 'ie', 'zo', 'electric'), 1)
+(('ca', 'al', '2', 'si', '2'), 1)
+(('cu', 'gl', 'ian', 'do', 'lo'), 1)
+(('xu', '201', '5', 'disc', 'overy'), 1)
+(('xu', '201', '5', 'obs', 'ervation'), 1)
+(('young', '201', '5', 'dir', 'ac'), 1)
+(('gu', 'gg', 'enh', 'ei', 'm'), 1)
+(('magnet', 'oe', 'xc', 'iton', 'ic'), 1)
+(('superc', 'on', 'ud', 'uct', 'ing'), 1)
+(('gi', 'ova', 'mb', 'att', 'ista'), 1)
+(('poly', 'amo', 'rp', 'his', 'm'), 1)
+(('eur', 'h', '2', 'si', '2'), 1)
+Iteration: Learning Rate: 1e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 1.0769
+Average loss on test data: 0.6756
+              precision    recall  f1-score   support
+
+           0       0.84      0.86      0.85       320
+           1       0.74      0.72      0.73       281
+           2       0.80      0.78      0.79       189
+           3       0.85      0.88      0.87       243
+
+    accuracy                           0.81      1033
+   macro avg       0.81      0.81      0.81      1033
+weighted avg       0.81      0.81      0.81      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 1.1778
+Average loss on test data: 0.8470
+              precision    recall  f1-score   support
+
+           0       0.68      0.97      0.80       320
+           1       0.78      0.48      0.60       281
+           2       0.80      0.68      0.73       189
+           3       0.86      0.85      0.85       243
+
+    accuracy                           0.76      1033
+   macro avg       0.78      0.74      0.75      1033
+weighted avg       0.77      0.76      0.74      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 1.0867
+Average loss for epoch 2: 0.5590
+Average loss on test data: 0.5367
+              precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89       320
+           1       0.91      0.60      0.72       281
+           2       0.83      0.79      0.81       189
+           3       0.74      0.98      0.84       243
+
+    accuracy                           0.82      1033
+   macro avg       0.83      0.82      0.81      1033
+weighted avg       0.84      0.82      0.82      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 1.1795
+Average loss for epoch 2: 0.7058
+Average loss on test data: 0.5633
+              precision    recall  f1-score   support
+
+           0       0.81      0.92      0.86       320
+           1       0.85      0.63      0.73       281
+           2       0.74      0.86      0.79       189
+           3       0.89      0.88      0.89       243
+
+    accuracy                           0.82      1033
+   macro avg       0.82      0.82      0.82      1033
+weighted avg       0.83      0.82      0.82      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 1.0959
+Average loss for epoch 2: 0.5612
+Average loss for epoch 3: 0.3799
+Average loss on test data: 0.4865
+              precision    recall  f1-score   support
+
+           0       0.83      0.91      0.87       320
+           1       0.77      0.76      0.77       281
+           2       0.89      0.65      0.75       189
+           3       0.84      0.93      0.88       243
+
+    accuracy                           0.83      1033
+   macro avg       0.83      0.81      0.82      1033
+weighted avg       0.83      0.83      0.82      1033
+
+Iteration: Learning Rate: 1e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 1.2171
+Average loss for epoch 2: 0.8367
+Average loss for epoch 3: 0.5050
+Average loss on test data: 0.5279
+              precision    recall  f1-score   support
+
+           0       0.91      0.82      0.86       320
+           1       0.73      0.80      0.76       281
+           2       0.89      0.71      0.79       189
+           3       0.80      0.94      0.87       243
+
+    accuracy                           0.82      1033
+   macro avg       0.83      0.82      0.82      1033
+weighted avg       0.83      0.82      0.82      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 0.8594
+Average loss on test data: 0.7256
+              precision    recall  f1-score   support
+
+           0       0.97      0.54      0.69       320
+           1       0.62      0.62      0.62       281
+           2       0.61      0.89      0.72       189
+           3       0.77      0.93      0.84       243
+
+    accuracy                           0.72      1033
+   macro avg       0.74      0.75      0.72      1033
+weighted avg       0.76      0.72      0.71      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 0.8255
+Average loss on test data: 0.5230
+              precision    recall  f1-score   support
+
+           0       0.80      0.93      0.86       320
+           1       0.76      0.73      0.74       281
+           2       0.90      0.63      0.74       189
+           3       0.85      0.91      0.88       243
+
+    accuracy                           0.82      1033
+   macro avg       0.83      0.80      0.81      1033
+weighted avg       0.82      0.82      0.81      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 0.8472
+Average loss for epoch 2: 0.4634
+Average loss on test data: 0.5688
+              precision    recall  f1-score   support
+
+           0       0.87      0.90      0.88       320
+           1       0.78      0.72      0.75       281
+           2       0.89      0.61      0.73       189
+           3       0.75      0.96      0.84       243
+
+    accuracy                           0.81      1033
+   macro avg       0.82      0.80      0.80      1033
+weighted avg       0.82      0.81      0.81      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 0.8917
+Average loss for epoch 2: 0.4184
+Average loss on test data: 0.4978
+              precision    recall  f1-score   support
+
+           0       0.92      0.80      0.86       320
+           1       0.70      0.83      0.76       281
+           2       0.82      0.75      0.78       189
+           3       0.86      0.88      0.87       243
+
+    accuracy                           0.82      1033
+   macro avg       0.83      0.82      0.82      1033
+weighted avg       0.83      0.82      0.82      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 0.8340
+Average loss for epoch 2: 0.4585
+Average loss for epoch 3: 0.2876
+Average loss on test data: 0.5693
+              precision    recall  f1-score   support
+
+           0       0.94      0.79      0.86       320
+           1       0.74      0.75      0.74       281
+           2       0.85      0.71      0.77       189
+           3       0.73      0.96      0.83       243
+
+    accuracy                           0.81      1033
+   macro avg       0.81      0.80      0.80      1033
+weighted avg       0.82      0.81      0.81      1033
+
+Iteration: Learning Rate: 5e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 0.8836
+Average loss for epoch 2: 0.4572
+Average loss for epoch 3: 0.2813
+Average loss on test data: 0.6408
+              precision    recall  f1-score   support
+
+           0       0.94      0.73      0.83       320
+           1       0.70      0.84      0.76       281
+           2       0.86      0.68      0.76       189
+           3       0.77      0.93      0.84       243
+
+    accuracy                           0.80      1033
+   macro avg       0.82      0.80      0.80      1033
+weighted avg       0.82      0.80      0.80      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 1, Batch Size: 16
+Average loss for epoch 1: 0.8534
+Average loss on test data: 0.6036
+              precision    recall  f1-score   support
+
+           0       0.85      0.81      0.83       320
+           1       0.71      0.75      0.73       281
+           2       0.86      0.58      0.69       189
+           3       0.78      0.98      0.87       243
+
+    accuracy                           0.79      1033
+   macro avg       0.80      0.78      0.78      1033
+weighted avg       0.80      0.79      0.79      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 1, Batch Size: 32
+Average loss for epoch 1: 0.9369
+Average loss on test data: 0.5716
+              precision    recall  f1-score   support
+
+           0       0.78      0.93      0.85       320
+           1       0.88      0.54      0.67       281
+           2       0.70      0.88      0.78       189
+           3       0.86      0.85      0.86       243
+
+    accuracy                           0.80      1033
+   macro avg       0.81      0.80      0.79      1033
+weighted avg       0.81      0.80      0.79      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 2, Batch Size: 16
+Average loss for epoch 1: 0.9032
+Average loss for epoch 2: 0.4770
+Average loss on test data: 0.5730
+              precision    recall  f1-score   support
+
+           0       0.93      0.74      0.83       320
+           1       0.78      0.70      0.74       281
+           2       0.77      0.82      0.79       189
+           3       0.74      0.98      0.84       243
+
+    accuracy                           0.80      1033
+   macro avg       0.81      0.81      0.80      1033
+weighted avg       0.82      0.80      0.80      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 2, Batch Size: 32
+Average loss for epoch 1: 0.9506
+Average loss for epoch 2: 0.4725
+Average loss on test data: 0.5213
+              precision    recall  f1-score   support
+
+           0       0.88      0.85      0.86       320
+           1       0.81      0.60      0.69       281
+           2       0.63      0.95      0.76       189
+           3       0.90      0.85      0.87       243
+
+    accuracy                           0.80      1033
+   macro avg       0.80      0.81      0.80      1033
+weighted avg       0.82      0.80      0.80      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 3, Batch Size: 16
+Average loss for epoch 1: 0.8155
+Average loss for epoch 2: 0.4419
+Average loss for epoch 3: 0.2610
+Average loss on test data: 0.5790
+              precision    recall  f1-score   support
+
+           0       0.81      0.93      0.86       320
+           1       0.85      0.64      0.73       281
+           2       0.90      0.72      0.80       189
+           3       0.76      0.94      0.84       243
+
+    accuracy                           0.82      1033
+   macro avg       0.83      0.81      0.81      1033
+weighted avg       0.82      0.82      0.81      1033
+
+Iteration: Learning Rate: 3e-05, Epochs: 3, Batch Size: 32
+Average loss for epoch 1: 0.9845
+Average loss for epoch 2: 0.4672
+Average loss for epoch 3: 0.2989
+Average loss on test data: 0.5019
+              precision    recall  f1-score   support
+
+           0       0.90      0.84      0.87       320
+           1       0.75      0.81      0.78       281
+           2       0.80      0.83      0.81       189
+           3       0.89      0.86      0.88       243
+
+    accuracy                           0.83      1033
+   macro avg       0.84      0.83      0.83      1033
+weighted avg       0.84      0.83      0.84      1033
+
+Best hyperparameters: {'learning_rate': 1e-05, 'epochs': 3, 'batch_size': 16}
+Average loss for epoch 1: 0.6381
+Average loss for epoch 2: 0.3583
+Average loss for epoch 3: 0.2608
+Average loss on test data: 0.4477
+              precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90       302
+           1       0.86      0.75      0.80       286
+           2       0.88      0.80      0.84       195
+           3       0.87      0.93      0.90       250
+
+    accuracy                           0.86      1033
+   macro avg       0.86      0.86      0.86      1033
+weighted avg       0.86      0.86      0.86      1033
+

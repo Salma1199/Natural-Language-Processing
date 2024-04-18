@@ -1,0 +1,141 @@
+Entry with ID title_tokens is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+In the category Phys Rev A there are 9285 unigram entries and 100913 bigram entries.
+The word 'example' appears 67 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 65 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category Phys Rev B there are 11380 unigram entries and 121538 bigram entries.
+The word 'example' appears 72 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 69 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category Nature Communications there are 10755 unigram entries and 104565 bigram entries.
+The word 'example' appears 95 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 92 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category J Chem Phys there are 11337 unigram entries and 105866 bigram entries.
+The word 'example' appears 57 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 56 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+
+Category: Phys Rev A
+Number of unique unigrams: 9285
+Number of unique bigrams: 100914
+
+Category: Phys Rev B
+Number of unique unigrams: 11380
+Number of unique bigrams: 121539
+
+Category: Nature Communications
+Number of unique unigrams: 10755
+Number of unique bigrams: 104566
+
+Category: J Chem Phys
+Number of unique unigrams: 11337
+Number of unique bigrams: 105867
+
+
+{'Phys Rev A': 0.28695892684276036, 'Phys Rev B': 0.2949799474484857, 'Nature Communications': 0.19651500484027107, 'J Chem Phys': 0.2215461208684829}
+Our classifier is 77.23% accurate on the test set
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             80.28%     86.06%  83.07%
+Phys Rev B             76.62%     66.00%  70.91%
+Nature Communications  69.47%     68.75%  69.11%
+J Chem Phys            79.64%     86.80%  83.06%
+---------------------  ---------  ------  --------
+Accuracy: 77.23%
+Macro F1-score: 76.54%
+
+
+
+Baseline Based on Random Assignment
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             31.99%     25.93%  28.64%
+Phys Rev B             26.62%     23.94%  25.21%
+Nature Communications  18.23%     23.61%  20.57%
+J Chem Phys            22.33%     25.28%  23.72%
+---------------------  ---------  ------  --------
+Accuracy: 24.77%
+Macro F1-score: 24.53%
+
+
+
+PRIOR_PROB_BASED
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             30.31%     34.20%  32.14%
+Phys Rev B             28.57%     33.11%  30.67%
+Nature Communications  15.62%     12.15%  13.67%
+J Chem Phys            19.31%     15.73%  17.34%
+---------------------  ---------  ------  --------
+Accuracy: 25.55%
+Macro F1-score: 23.46%
+
+
+
+Smoothing parameter 0.15000000000000002 produces the HIGHEST macro F1 on the dev set: 0.7986170420137999
+Smoothing parameter 1e-09 produces the LOWEST macro F1 on the dev set: 0.7302467511757834
+The difference between the highest and lowest macro F1 is 0.06837029083801649.
+Macro F1 Score on Test Set with Best Parameter: 0.7835790209684366
+Smoothing parameter alpha = 0 gets a macro-f1 score of 0.1173188333133861
+Smoothing parameter alpha = 0.0001 gets a macro-f1 score of 0.7628070151929801
+Smoothing parameter alpha = 0.001 gets a macro-f1 score of 0.7604431668016229
+Smoothing parameter alpha = 0.005 gets a macro-f1 score of 0.7656687899052269
+Smoothing parameter alpha = 0.1 gets a macro-f1 score of 0.7646024726092691
+Smoothing parameter alpha = 0.2 gets a macro-f1 score of 0.758089410222807
+Smoothing parameter alpha = 0.5 gets a macro-f1 score of 0.7475607995039512
+Smoothing parameter alpha = 0.8 gets a macro-f1 score of 0.717309020997058
+Smoothing parameter alpha = 1 gets a macro-f1 score of 0.6969030296380022
+Best alpha: 0.005
+Best Macro F1 Score: 0.7656687899052269
+Macro F1 Score on Test Set with Best Parameter: 0.7548618363606951
+Top 30 Most Informative Features based on Mutual Information:
+1140: 7.518670417067117e-06
+xas: 7.518670417067117e-06
+passes: 7.518670417067117e-06
+identically: 7.518670417067117e-06
+screens: 7.518670417067117e-06
+viability: 7.518670417067117e-06
+transferable: 7.518670417067117e-06
+sgpe: 7.518670417067117e-06
+preceded: 7.518670417067117e-06
+73: 7.518670417067117e-06
+biomacromolecule: 7.518670417067117e-06
+aggressively: 7.518670417067117e-06
+c_n: 7.518670417067117e-06
+1019: 7.518670417067117e-06
+fresnel: 7.518670417067117e-06
+ni2: 7.518670417067117e-06
+selenide: 7.518670417067117e-06
+occupies: 7.518670417067117e-06
+aluminum: 7.518670417067117e-06
+cutoff: 7.518670417067117e-06
+013401: 7.518670417067117e-06
+remobilized: 7.518670417067117e-06
+764: 7.518670417067117e-06
+kahl: 7.518670417067117e-06
+interconversion: 7.518670417067117e-06
+equilibrating: 7.518670417067117e-06
+squirmer: 7.518670417067117e-06
+left: 7.518670417067117e-06
+wide: 7.518670417067117e-06
+emitting: 7.518670417067117e-06
+Best unigram parameters: alpha = 0.8, top_n = 15000 with a macro-f1 score of 0.7771760121400053
+Macro F1 Score on Test Set with Best Parameters: 0.7622027801695321
+Best bigram parameters: alpha = 0.1, top_n = 100000 with a macro-f1 score of 0.7261789145078081
+Macro F1 Score on Test Set with Best Parameters: 0.716387820936264
