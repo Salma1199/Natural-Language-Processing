@@ -1,0 +1,124 @@
+Total number of entries in cond_filtered_mtrl: 1170
+Entry with ID title_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID title_tokens is not a dictionary.
+Entry with ID abstract_cleaned is not a dictionary.
+Entry with ID abstract_tokens is not a dictionary.
+In the category Phys Rev A there are 613 unigram entries and 1226 bigram entries.
+The word 'example' appears 0 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 0 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category Phys Rev B there are 4852 unigram entries and 25222 bigram entries.
+The word 'example' appears 6 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 6 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category Nature Communications there are 5058 unigram entries and 26793 bigram entries.
+The word 'example' appears 13 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 12 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+In the category J Chem Phys there are 5009 unigram entries and 25167 bigram entries.
+The word 'example' appears 15 times in the unigram_vocab.
+The bigram 'example bigram' appears 0 times in the bigram_vocab.
+The word 'example' appears in 15 different entries.
+The bigram 'example bigram' appears in 0 different entries.
+{'Phys Rev A': 0.014814814814814815, 'Phys Rev B': 0.33827160493827163, 'Nature Communications': 0.3234567901234568, 'J Chem Phys': 0.3234567901234568}
+Our classifier is 62.64% accurate on the test set
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             0.00%      0.00%   0.00%
+Phys Rev B             52.54%     59.62%  55.86%
+Nature Communications  72.73%     68.97%  70.80%
+J Chem Phys            64.41%     62.30%  63.33%
+---------------------  ---------  ------  --------
+Accuracy: 62.64%
+Unigram unsmoothed Macro F1-score: 47.50%
+
+
+
+Baseline Based on Random Assignment
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             0.00%      0.00%   0.00%
+Phys Rev B             28.57%     30.77%  29.63%
+Nature Communications  27.91%     20.69%  23.76%
+J Chem Phys            33.33%     24.59%  28.30%
+---------------------  ---------  ------  --------
+Accuracy: 24.71%
+Unigram unsmoothed Macro F1-score: 20.42%
+
+
+
+PRIOR_PROB_BASED
+---------------------  ---------  ------  --------
+Category               Precision  Recall  F1-score
+Phys Rev A             0.00%      0.00%   0.00%
+Phys Rev B             29.41%     28.85%  29.13%
+Nature Communications  25.42%     25.86%  25.64%
+J Chem Phys            37.50%     39.34%  38.40%
+---------------------  ---------  ------  --------
+Accuracy: 31.03%
+Unigram unsmoothed Macro F1-score: 23.29%
+
+
+
+Smoothing parameter 1.55 produces the HIGHEST macro F1 on the dev set: 0.5672252024714035
+Smoothing parameter 1e-09 produces the LOWEST macro F1 on the dev set: 0.4815275434812957
+The difference between the highest and lowest macro F1 is 0.08569765899010784.
+Macro F1 Score on Test Set with Best Parameter: 0.5454773021842597
+Smoothing parameter alpha = 0 gets a macro-f1 score of 0.005681818181818181
+Smoothing parameter alpha = 0.0001 gets a macro-f1 score of 0.5085998886549411
+Smoothing parameter alpha = 0.001 gets a macro-f1 score of 0.5169006364082511
+Smoothing parameter alpha = 0.005 gets a macro-f1 score of 0.5213317793931732
+Smoothing parameter alpha = 0.1 gets a macro-f1 score of 0.48233051862145854
+Smoothing parameter alpha = 0.2 gets a macro-f1 score of 0.48233051862145854
+Smoothing parameter alpha = 0.5 gets a macro-f1 score of 0.5851223196157084
+Smoothing parameter alpha = 0.8 gets a macro-f1 score of 0.49550264550264556
+Smoothing parameter alpha = 1 gets a macro-f1 score of 0.460157334369835
+Best alpha: 0.5
+Best Macro F1 Score: 0.5851223196157084
+Macro F1 Score on Test Set with Best Parameter: 0.45826898326898324
+Top 30 Most Informative Features based on Mutual Information:
+fci: 8.86680381819281e-05
+entanglement: 8.86680381819281e-05
+wavavector: 8.86680381819281e-05
+price: 8.86680381819281e-05
+alternating: 8.86680381819281e-05
+bandwidth: 8.86680381819281e-05
+factors: 8.86680381819281e-05
+intermediate: 8.86680381819281e-05
+random: 8.86680381819281e-05
+questionable: 8.86680381819281e-05
+specialized: 8.86680381819281e-05
+yield: 8.86680381819281e-05
+superconductivity: 8.86680381819281e-05
+preconditioner: 8.86680381819281e-05
+meet: 8.86680381819281e-05
+detail: 8.86680381819281e-05
+viscosities: 8.86680381819281e-05
+sparsifying: 8.86680381819281e-05
+hall: 8.86680381819281e-05
+occ: 8.86680381819281e-05
+accurately: 8.86680381819281e-05
+inevitable: 8.86680381819281e-05
+vital: 8.86680381819281e-05
+perpendicular: 8.86680381819281e-05
+states: 8.86680381819281e-05
+80cm2: 8.86680381819281e-05
+expected: 8.86680381819281e-05
+pz: 8.86680381819281e-05
+radio: 8.86680381819281e-05
+cdws: 8.86680381819281e-05
+Best unigram parameters: alpha = 0.8, top_n = 5000 with a macro-f1 score of 0.564612257946657
+Macro F1 Score on Test Set with Best Parameters: 0.5373502952064797
+Best bigram parameters: alpha = 0.2, top_n = 50000 with a macro-f1 score of 0.5380612548319952
+Macro F1 Score on Test Set with Best Parameters: 0.50380600174654
